@@ -6,7 +6,7 @@
 
 ![banner2](https://user-images.githubusercontent.com/32098845/115913667-93a51600-a479-11eb-8007-ea669c734f7d.png)
 
-#### :hammer_and_wrench: **TECH STACK**
+### :hammer_and_wrench: Technologies & Tools
 .NET CORE / C# / JAVA / REST API / SQL SERVER / NODE JS / JQUERY / HTML / CSS / BOOSTRAP / ANGULAR / TYPESCRIPT / GITHUB 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cemozaydin&count_private=true&theme=tokyonight&showicons=true)]()
