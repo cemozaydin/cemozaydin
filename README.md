@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Cem.
 
-<p>I'm an Information Technology Specialist and I interested in back-end development using with .NET Core. Also I start to develop Typescript projects with Angular.
+<p>I'm an Information Technology Specialist and interested in back-end development using with .NET Core. Also I have started to develop Typescript projects with Angular.
 
 ![banner](https://user-images.githubusercontent.com/32098845/115912337-df56c000-a477-11eb-8f8c-696b03a3c9a3.png)
 
@@ -11,4 +11,5 @@
 
 ## :bar_chart: GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cemozaydin&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cemozaydin&langs_count=5&theme=tokyonight)]()
