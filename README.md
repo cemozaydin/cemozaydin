@@ -15,6 +15,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-blueviolet?style=for-the-badge&logo=visual-studio" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code" />
+<img alt="IntelliJ Idea" src="https://img.shields.io/badge/-IntelliJ%20Idea-000000?style=for-the-badge&logo=IntelliJ-Idea" />
 
 ## :bar_chart: GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cemozaydin&count_private=true&theme=tokyonight&showicons=true)]()
