@@ -1,3 +1,7 @@
+[![GitHub followers](https://img.shields.io/github/followers/cemozaydin?style=social)](https://github.com/cemozaydin?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/cemozaydin?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=cemozaydin.visitor-badge)](https://GitHub.com/cemozaydin/StrapDown.js/stargazers/)
+
 ## Hi there 👋 I'm Cem.
 
 <p>I'm an Information Technology Specialist and interested in back-end development using with .NET Core. Also I have started to develop Typescript projects with Angular.
